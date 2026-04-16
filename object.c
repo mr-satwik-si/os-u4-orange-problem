@@ -241,3 +241,4 @@ free(buffer);
 return 0;
 }
 // phase1 update
+// phase1 read
