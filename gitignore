@@ -1,0 +1,11 @@
+# build files
+*.o
+pes
+test_objects
+test_tree
+
+# temp files
+*.txt
+
+# system files
+.DS_Store
